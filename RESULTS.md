@@ -9,3 +9,6 @@ Output: true
 
 Tested isOdd(7)
 Output: true
+
+Tested multiply(3, 4)
+Output: 12
