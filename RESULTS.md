@@ -6,3 +6,6 @@ Output: 16
 
 Tested isEven(6)
 Output: true
+
+Tested isOdd(7)
+Output: true
